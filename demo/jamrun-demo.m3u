@@ -2,19 +2,19 @@
 # JamRun IPTV demo playlist: free, openly licensed content only. The channels are demo channels, not real broadcasters.
 # Licences and credits: https://github.com/notsurewhoisthis/Diamond-IPTV/blob/main/demo/README.md
 
-#EXTINF:-1 tvg-id="StudioOne.demo" tvg-chno="1" tvg-name="Studio One" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/studio-one.png" group-title="Entertainment Channels",Studio One
+#EXTINF:-1 tvg-type="live" tvg-id="StudioOne.demo" tvg-chno="1" tvg-name="Studio One" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/studio-one.png" group-title="Entertainment Channels",Studio One
 https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4
-#EXTINF:-1 tvg-id="Fable.demo" tvg-chno="2" tvg-name="Fable" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/fable.png" group-title="Entertainment Channels",Fable
+#EXTINF:-1 tvg-type="live" tvg-id="Fable.demo" tvg-chno="2" tvg-name="Fable" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/fable.png" group-title="Entertainment Channels",Fable
 https://archive.org/download/Sintel/sintel-2048-stereo.mp4
-#EXTINF:-1 tvg-id="Nova.demo" tvg-chno="3" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/nova.png" group-title="Animation Channels",Nova
+#EXTINF:-1 tvg-type="live" tvg-id="Nova.demo" tvg-chno="3" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/nova.png" group-title="Animation Channels",Nova
 https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20(1080p).mp4
-#EXTINF:-1 tvg-id="Agent247.demo" tvg-chno="4" tvg-name="Agent 24/7" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/agent-247.png" group-title="Animation Channels",Agent 24/7
+#EXTINF:-1 tvg-type="live" tvg-id="Agent247.demo" tvg-chno="4" tvg-name="Agent 24/7" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/agent-247.png" group-title="Animation Channels",Agent 24/7
 https://archive.org/download/agent327operationbarbershop/agent327-1080.mp4
-#EXTINF:-1 tvg-id="Reverie.demo" tvg-chno="5" tvg-name="Reverie" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/reverie.png" group-title="Animation Channels",Reverie
+#EXTINF:-1 tvg-type="live" tvg-id="Reverie.demo" tvg-chno="5" tvg-name="Reverie" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/reverie.png" group-title="Animation Channels",Reverie
 https://archive.org/download/ElephantsDream/ed_hd.mp4
-#EXTINF:-1 tvg-id="BunnyKids.demo" tvg-chno="6" tvg-name="Bunny Kids" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/bunny-kids.png" group-title="Kids Channels",Bunny Kids
+#EXTINF:-1 tvg-type="live" tvg-id="BunnyKids.demo" tvg-chno="6" tvg-name="Bunny Kids" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/bunny-kids.png" group-title="Kids Channels",Bunny Kids
 https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
-#EXTINF:-1 tvg-id="LlamaTV.demo" tvg-chno="7" tvg-name="Llama TV" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/llama-tv.png" group-title="Kids Channels",Llama TV
+#EXTINF:-1 tvg-type="live" tvg-id="LlamaTV.demo" tvg-chno="7" tvg-name="Llama TV" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/llama-tv.png" group-title="Kids Channels",Llama TV
 https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
 
 #EXTINF:-1 tvg-type="movie" tvg-year="2008" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/bbb.jpg" group-title="Animation",Big Buck Bunny (2008)
