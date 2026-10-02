@@ -1,31 +1,16 @@
 # JamRun IPTV demo playlist
 
-A small playlist for trying JamRun IPTV and for App Review. Everything in it is free and legal to watch. JamRun IPTV itself ships with no content; this playlist is only a demonstration.
+A small playlist for trying JamRun IPTV and for App Review. JamRun IPTV ships with no content; this playlist only demonstrates the app with films that are free to watch and share.
 
 **Playlist URL:** `https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/jamrun-demo.m3u`
 
-In the app: Settings → Add Playlist → M3U URL, then paste the URL above.
+In the app: Settings → Add Playlist → M3U URL, then enter the URL above.
 
-## Live TV
+## What's in it
 
-Each channel is the broadcaster's own free public stream.
-
-| Channel | Stream from |
-|---|---|
-| France 24 English | france24.com |
-| Al Jazeera English | aljazeera.com |
-| NHK World-Japan | nhk.or.jp |
-| TRT World | trt.com.tr |
-| Arirang TV | arirang.com |
-| ABC News Live | abcnews.go.com |
-| Bloomberg TV | bloomberg.com |
-| NASA TV | nasa.gov (public domain) |
-
-The TV guide (`guide.xml`) is refreshed daily from the free [epg.pw](https://epg.pw) listings by `update_guide.py`.
-
-## Movies and series
-
-Open films from the [Blender Foundation](https://studio.blender.org/films/), streamed from the [Internet Archive](https://archive.org).
+- **Live TV:** seven demo channels (Studio One, Fable, Nova, Agent 24/7, Reverie, Bunny Kids, Llama TV). They are not real broadcasters: each one plays an open movie from the list below. Their names and logos were made for this demo.
+- **TV guide:** `guide.xml`, a schedule of the open movies for the demo channels. `update_guide.py` regenerates it every day (see `.github/workflows/demo-guide.yml`) so it always covers the current week.
+- **Movies and series:** open movies by the [Blender Foundation](https://studio.blender.org/films/), streamed from the [Internet Archive](https://archive.org).
 
 | Title | Year | Licence |
 |---|---|---|
@@ -41,4 +26,4 @@ Open films from the [Blender Foundation](https://studio.blender.org/films/), str
 
 - Film posters: Big Buck Bunny, Elephants Dream and Cosmos Laundromat from Wikimedia Commons; Sintel, Tears of Steel and Agent 327 from the Internet Archive. All © Blender Foundation under the licences above, resized.
 - Caminandes artwork: stills from the episodes (CC BY 3.0, © Blender Foundation), cropped and resized.
-- Channel logos: from Wikimedia Commons (public domain, except the Al Jazeera logo, CC BY 4.0), placed on a white background. The logos are trademarks of their broadcasters.
+- Demo channel logos: made for this demo.

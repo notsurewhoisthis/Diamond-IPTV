@@ -1,22 +1,21 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/guide.xml"
-# JamRun IPTV demo playlist: free, legal content only. Licences and credits: https://github.com/notsurewhoisthis/Diamond-IPTV/blob/main/demo/README.md
+# JamRun IPTV demo playlist: free, openly licensed content only. The channels are demo channels, not real broadcasters.
+# Licences and credits: https://github.com/notsurewhoisthis/Diamond-IPTV/blob/main/demo/README.md
 
-#EXTINF:-1 tvg-id="France24.en" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/france24.png" group-title="News",France 24 English
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.en" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/aljazeera.png" group-title="News",Al Jazeera English
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorld.en" tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/nhkworld.png" group-title="News",NHK World-Japan
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.en" tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/trtworld.png" group-title="News",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Arirang.en" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/arirang.png" group-title="News",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/abcnewslive.png" group-title="News",ABC News Live
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.eu" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/bloomberg.png" group-title="Business",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA TV" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/nasa.png" group-title="Science",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="StudioOne.demo" tvg-chno="1" tvg-name="Studio One" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/studio-one.png" group-title="Entertainment Channels",Studio One
+https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4
+#EXTINF:-1 tvg-id="Fable.demo" tvg-chno="2" tvg-name="Fable" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/fable.png" group-title="Entertainment Channels",Fable
+https://archive.org/download/Sintel/sintel-2048-stereo.mp4
+#EXTINF:-1 tvg-id="Nova.demo" tvg-chno="3" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/nova.png" group-title="Animation Channels",Nova
+https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20(1080p).mp4
+#EXTINF:-1 tvg-id="Agent247.demo" tvg-chno="4" tvg-name="Agent 24/7" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/agent-247.png" group-title="Animation Channels",Agent 24/7
+https://archive.org/download/agent327operationbarbershop/agent327-1080.mp4
+#EXTINF:-1 tvg-id="Reverie.demo" tvg-chno="5" tvg-name="Reverie" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/reverie.png" group-title="Animation Channels",Reverie
+https://archive.org/download/ElephantsDream/ed_hd.mp4
+#EXTINF:-1 tvg-id="BunnyKids.demo" tvg-chno="6" tvg-name="Bunny Kids" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/bunny-kids.png" group-title="Kids Channels",Bunny Kids
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 tvg-id="LlamaTV.demo" tvg-chno="7" tvg-name="Llama TV" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/llama-tv.png" group-title="Kids Channels",Llama TV
+https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
 
 #EXTINF:-1 tvg-type="movie" tvg-year="2008" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/bbb.jpg" group-title="Animation",Big Buck Bunny (2008)
 https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
@@ -31,9 +30,9 @@ https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4
 #EXTINF:-1 tvg-type="movie" tvg-year="2006" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/elephants.jpg" group-title="Sci-Fi & Fantasy",Elephants Dream (2006)
 https://archive.org/download/ElephantsDream/ed_hd.mp4
 
-#EXTINF:-1 tvg-type="series" tvg-name="Caminandes" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/caminandes-1.jpg" xc-plot="A llama in the Patagonian wilderness keeps trying to reach the grass on the other side of the road, and then the fence. Three short animated films by the Blender Foundation." xc-genre="Animation" group-title="Animated Shorts",Caminandes S01E01 Llama Drama
+#EXTINF:-1 tvg-type="series" tvg-name="Caminandes" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/caminandes-1.jpg" xc-plot="Koro the llama keeps trying to reach the grass on the other side: of a road, of an electric fence, and of a frozen winter. Three short animated films by the Blender Foundation." xc-genre="Animation" group-title="Animated Shorts",Caminandes S01E01 Llama Drama
 https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
-#EXTINF:-1 tvg-type="series" tvg-name="Caminandes" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/caminandes-2.jpg" xc-plot="A llama in the Patagonian wilderness keeps trying to reach the grass on the other side of the road, and then the fence. Three short animated films by the Blender Foundation." xc-genre="Animation" group-title="Animated Shorts",Caminandes S01E02 Gran Dillama
+#EXTINF:-1 tvg-type="series" tvg-name="Caminandes" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/caminandes-2.jpg" xc-plot="Koro the llama keeps trying to reach the grass on the other side: of a road, of an electric fence, and of a frozen winter. Three short animated films by the Blender Foundation." xc-genre="Animation" group-title="Animated Shorts",Caminandes S01E02 Gran Dillama
 https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
-#EXTINF:-1 tvg-type="series" tvg-name="Caminandes" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/caminandes-3.jpg" xc-plot="A llama in the Patagonian wilderness keeps trying to reach the grass on the other side of the road, and then the fence. Three short animated films by the Blender Foundation." xc-genre="Animation" group-title="Animated Shorts",Caminandes S01E03 Llamigos
+#EXTINF:-1 tvg-type="series" tvg-name="Caminandes" tvg-logo="https://raw.githubusercontent.com/notsurewhoisthis/Diamond-IPTV/main/demo/images/caminandes-3.jpg" xc-plot="Koro the llama keeps trying to reach the grass on the other side: of a road, of an electric fence, and of a frozen winter. Three short animated films by the Blender Foundation." xc-genre="Animation" group-title="Animated Shorts",Caminandes S01E03 Llamigos
 https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4

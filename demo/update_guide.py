@@ -1,72 +1,89 @@
 #!/usr/bin/env python3
-"""Builds demo/guide.xml: the TV guide for the demo playlist's live channels.
+"""Builds demo/guide.xml: a TV guide for the demo playlist's channels.
 
-Pulls the free epg.pw XMLTV feeds, keeps only the channels in CHANNELS and
-renames them to the tvg-id values used in jamrun-demo.m3u. Run daily by
-.github/workflows/demo-guide.yml so the guide never runs out.
+The demo channels are not real broadcasters, so their schedule is generated
+here: each channel rotates through Blender Foundation open movies, from
+yesterday to six days ahead. Run daily by .github/workflows/demo-guide.yml so
+the guide always covers the current week.
 """
-import gzip
-import io
+import datetime as dt
 import sys
-import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-FEEDS = {
-    "GB": "https://epg.pw/xmltv/epg_GB.xml.gz",
-    "US": "https://epg.pw/xmltv/epg_US.xml.gz",
+CREDIT = "Blender Foundation open movie"
+FILMS = {
+    "tos": ("Tears of Steel", "Sci-Fi", "In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up.", "CC BY 3.0"),
+    "sintel": ("Sintel", "Fantasy", "A young woman crosses a harsh land to find the baby dragon she once rescued.", "CC BY 3.0"),
+    "bbb": ("Big Buck Bunny", "Animation", "A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals.", "CC BY 3.0"),
+    "ed": ("Elephants Dream", "Sci-Fi", "Two men explore a vast, strange machine that may exist only in one of their minds.", "CC BY 3.0"),
+    "cosmos": ("Cosmos Laundromat", "Animation", "On a lonely island, Franck the sheep meets a salesman who offers him any life he wants.", "CC BY 4.0"),
+    "agent": ("Agent 327: Operation Barbershop", "Animation", "Agent 327 goes undercover in a barbershop to find a missing colleague.", "CC BY-ND 4.0"),
+    "cam1": ("Caminandes: Llama Drama", "Kids", "Koro the llama tries to cross a road to reach the grass on the other side.", "CC BY 3.0"),
+    "cam2": ("Caminandes: Gran Dillama", "Kids", "Koro wants the juicy leaves on the far side of an electric fence.", "CC BY 3.0"),
+    "cam3": ("Caminandes: Llamigos", "Kids", "In the depths of winter, Koro meets Oti the penguin and they compete for the last berries.", "CC BY 3.0"),
 }
 
-# tvg-id in the playlist -> (feed, epg.pw channel id, display name)
+# tvg-id -> (display name, rotation of films)
 CHANNELS = {
-    "France24.en": ("GB", "12048", "France 24 English"),
-    "AlJazeera.en": ("GB", "12532", "Al Jazeera English"),
-    "NHKWorld.en": ("GB", "12051", "NHK World-Japan"),
-    "Bloomberg.eu": ("GB", "12464", "Bloomberg TV"),
-    "TRTWorld.en": ("GB", "12523", "TRT World"),
-    "Arirang.en": ("GB", "12037", "Arirang TV"),
-    "ABCNewsLive.us": ("US", "465150", "ABC News Live"),
-    "NASA.us": ("US", "561889", "NASA TV"),
+    "StudioOne.demo": ("Studio One", ["tos", "cosmos", "sintel", "ed", "agent"]),
+    "Fable.demo": ("Fable", ["sintel", "ed", "tos", "cosmos"]),
+    "BunnyKids.demo": ("Bunny Kids", ["bbb", "cam1", "cam2", "cam3"]),
+    "LlamaTV.demo": ("Llama TV", ["cam1", "cam2", "cam3", "bbb"]),
+    "Nova.demo": ("Nova", ["cosmos", "tos", "agent", "sintel"]),
+    "Agent247.demo": ("Agent 24/7", ["agent", "bbb", "cosmos", "cam2"]),
+    "Reverie.demo": ("Reverie", ["ed", "sintel", "cosmos", "tos"]),
 }
 
+# Slot lengths in minutes, cycled so the guide grid isn't uniform
+SLOTS = [30, 60, 30, 30, 60, 30]
+DAYS_BACK = 1
+DAYS_AHEAD = 6
+SCHEDULE_EPOCH = dt.datetime(2026, 1, 1, tzinfo=dt.timezone.utc)
 OUTPUT = Path(__file__).with_name("guide.xml")
 
 
-def fetch(url: str) -> ET.Element:
-    request = urllib.request.Request(url, headers={"User-Agent": "JamRunDemoGuide/1.0"})
-    with urllib.request.urlopen(request, timeout=120) as response:
-        data = response.read()
-    with gzip.open(io.BytesIO(data)) as xml:
-        return ET.parse(xml).getroot()
+def xmltv_time(moment: dt.datetime) -> str:
+    return moment.strftime("%Y%m%d%H%M%S +0000")
 
 
 def main() -> int:
-    wanted = {(feed, source_id): tvg_id for tvg_id, (feed, source_id, _) in CHANNELS.items()}
-    guide = ET.Element("tv", {"generator-info-name": "JamRun demo guide (from epg.pw)"})
-    for tvg_id, (_, _, name) in CHANNELS.items():
+    today = dt.datetime.now(dt.timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+    start = today - dt.timedelta(days=DAYS_BACK)
+    end = today + dt.timedelta(days=DAYS_AHEAD + 1)
+
+    guide = ET.Element("tv", {"generator-info-name": "JamRun demo guide"})
+    for tvg_id, (name, _) in CHANNELS.items():
         channel = ET.SubElement(guide, "channel", {"id": tvg_id})
         ET.SubElement(channel, "display-name").text = name
 
-    counts = {tvg_id: 0 for tvg_id in CHANNELS}
-    for feed, url in FEEDS.items():
-        for programme in fetch(url).iter("programme"):
-            tvg_id = wanted.get((feed, programme.get("channel")))
-            if tvg_id is None:
+    total = 0
+    for offset, (tvg_id, (_, rotation)) in enumerate(CHANNELS.items()):
+        # Walk the rotation from a fixed date so each slot keeps its programme between refreshes
+        moment = SCHEDULE_EPOCH
+        step = offset * 3
+        while moment < end:
+            film = FILMS[rotation[step % len(rotation)]]
+            minutes = SLOTS[(step + offset) % len(SLOTS)]
+            stop = moment + dt.timedelta(minutes=minutes)
+            if stop <= start:
+                moment = stop
+                step += 1
                 continue
-            programme.set("channel", tvg_id)
-            guide.append(programme)
-            counts[tvg_id] += 1
-
-    empty = [tvg_id for tvg_id, count in counts.items() if count == 0]
-    if len(empty) == len(CHANNELS):
-        print("No programmes found for any channel; keeping the previous guide.", file=sys.stderr)
-        return 1
-    for tvg_id in empty:
-        print(f"warning: no programmes for {tvg_id}", file=sys.stderr)
+            programme = ET.SubElement(guide, "programme", {
+                "start": xmltv_time(moment), "stop": xmltv_time(stop), "channel": tvg_id,
+            })
+            title, category, summary, licence = film
+            ET.SubElement(programme, "title", {"lang": "en"}).text = title
+            ET.SubElement(programme, "desc", {"lang": "en"}).text = f"{summary} {CREDIT}, {licence}."
+            ET.SubElement(programme, "category", {"lang": "en"}).text = category
+            moment = stop
+            step += 1
+            total += 1
 
     ET.indent(guide)
     ET.ElementTree(guide).write(OUTPUT, encoding="utf-8", xml_declaration=True)
-    print(f"Wrote {sum(counts.values())} programmes for {len(CHANNELS) - len(empty)} channels")
+    print(f"Wrote {total} programmes for {len(CHANNELS)} channels")
     return 0
 
 
