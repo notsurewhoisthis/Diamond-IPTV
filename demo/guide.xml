@@ -21,186 +21,6 @@
   <channel id="Reverie.demo">
     <display-name>Reverie</display-name>
   </channel>
-  <programme start="20261018000000 +0000" stop="20261018003000 +0000" channel="StudioOne.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018003000 +0000" stop="20261018013000 +0000" channel="StudioOne.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018013000 +0000" stop="20261018020000 +0000" channel="StudioOne.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018020000 +0000" stop="20261018023000 +0000" channel="StudioOne.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018023000 +0000" stop="20261018033000 +0000" channel="StudioOne.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018033000 +0000" stop="20261018040000 +0000" channel="StudioOne.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018040000 +0000" stop="20261018043000 +0000" channel="StudioOne.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018043000 +0000" stop="20261018053000 +0000" channel="StudioOne.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018053000 +0000" stop="20261018060000 +0000" channel="StudioOne.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018060000 +0000" stop="20261018063000 +0000" channel="StudioOne.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018063000 +0000" stop="20261018073000 +0000" channel="StudioOne.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018073000 +0000" stop="20261018080000 +0000" channel="StudioOne.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018080000 +0000" stop="20261018083000 +0000" channel="StudioOne.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018083000 +0000" stop="20261018093000 +0000" channel="StudioOne.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018093000 +0000" stop="20261018100000 +0000" channel="StudioOne.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018100000 +0000" stop="20261018103000 +0000" channel="StudioOne.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018103000 +0000" stop="20261018113000 +0000" channel="StudioOne.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018113000 +0000" stop="20261018120000 +0000" channel="StudioOne.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="StudioOne.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018123000 +0000" stop="20261018133000 +0000" channel="StudioOne.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018133000 +0000" stop="20261018140000 +0000" channel="StudioOne.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018140000 +0000" stop="20261018143000 +0000" channel="StudioOne.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018143000 +0000" stop="20261018153000 +0000" channel="StudioOne.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018153000 +0000" stop="20261018160000 +0000" channel="StudioOne.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018160000 +0000" stop="20261018163000 +0000" channel="StudioOne.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018163000 +0000" stop="20261018173000 +0000" channel="StudioOne.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018173000 +0000" stop="20261018180000 +0000" channel="StudioOne.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018180000 +0000" stop="20261018183000 +0000" channel="StudioOne.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018183000 +0000" stop="20261018193000 +0000" channel="StudioOne.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018193000 +0000" stop="20261018200000 +0000" channel="StudioOne.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018200000 +0000" stop="20261018203000 +0000" channel="StudioOne.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018203000 +0000" stop="20261018213000 +0000" channel="StudioOne.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018213000 +0000" stop="20261018220000 +0000" channel="StudioOne.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018220000 +0000" stop="20261018223000 +0000" channel="StudioOne.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018223000 +0000" stop="20261018233000 +0000" channel="StudioOne.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018233000 +0000" stop="20261019000000 +0000" channel="StudioOne.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
   <programme start="20261019000000 +0000" stop="20261019003000 +0000" channel="StudioOne.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
@@ -1461,184 +1281,184 @@
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018000000 +0000" stop="20261018010000 +0000" channel="Fable.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018010000 +0000" stop="20261018013000 +0000" channel="Fable.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018013000 +0000" stop="20261018020000 +0000" channel="Fable.demo">
+  <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="StudioOne.demo">
     <title lang="en">Elephants Dream</title>
     <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018020000 +0000" stop="20261018030000 +0000" channel="Fable.demo">
+  <programme start="20261026003000 +0000" stop="20261026013000 +0000" channel="StudioOne.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="StudioOne.demo">
     <title lang="en">Tears of Steel</title>
     <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018030000 +0000" stop="20261018033000 +0000" channel="Fable.demo">
+  <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="StudioOne.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018033000 +0000" stop="20261018040000 +0000" channel="Fable.demo">
+  <programme start="20261026023000 +0000" stop="20261026033000 +0000" channel="StudioOne.demo">
     <title lang="en">Sintel</title>
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018040000 +0000" stop="20261018050000 +0000" channel="Fable.demo">
+  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="StudioOne.demo">
     <title lang="en">Elephants Dream</title>
     <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018050000 +0000" stop="20261018053000 +0000" channel="Fable.demo">
+  <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="StudioOne.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026043000 +0000" stop="20261026053000 +0000" channel="StudioOne.demo">
     <title lang="en">Tears of Steel</title>
     <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018053000 +0000" stop="20261018060000 +0000" channel="Fable.demo">
+  <programme start="20261026053000 +0000" stop="20261026060000 +0000" channel="StudioOne.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018060000 +0000" stop="20261018070000 +0000" channel="Fable.demo">
+  <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="StudioOne.demo">
     <title lang="en">Sintel</title>
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018070000 +0000" stop="20261018073000 +0000" channel="Fable.demo">
+  <programme start="20261026063000 +0000" stop="20261026073000 +0000" channel="StudioOne.demo">
     <title lang="en">Elephants Dream</title>
     <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018073000 +0000" stop="20261018080000 +0000" channel="Fable.demo">
+  <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="StudioOne.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="StudioOne.demo">
     <title lang="en">Tears of Steel</title>
     <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018080000 +0000" stop="20261018090000 +0000" channel="Fable.demo">
+  <programme start="20261026083000 +0000" stop="20261026093000 +0000" channel="StudioOne.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018090000 +0000" stop="20261018093000 +0000" channel="Fable.demo">
+  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="StudioOne.demo">
     <title lang="en">Sintel</title>
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018093000 +0000" stop="20261018100000 +0000" channel="Fable.demo">
+  <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="StudioOne.demo">
     <title lang="en">Elephants Dream</title>
     <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="Fable.demo">
+  <programme start="20261026103000 +0000" stop="20261026113000 +0000" channel="StudioOne.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="StudioOne.demo">
     <title lang="en">Tears of Steel</title>
     <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018110000 +0000" stop="20261018113000 +0000" channel="Fable.demo">
+  <programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="StudioOne.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018113000 +0000" stop="20261018120000 +0000" channel="Fable.demo">
+  <programme start="20261026123000 +0000" stop="20261026133000 +0000" channel="StudioOne.demo">
     <title lang="en">Sintel</title>
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018120000 +0000" stop="20261018130000 +0000" channel="Fable.demo">
+  <programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="StudioOne.demo">
     <title lang="en">Elephants Dream</title>
     <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018130000 +0000" stop="20261018133000 +0000" channel="Fable.demo">
+  <programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="StudioOne.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026143000 +0000" stop="20261026153000 +0000" channel="StudioOne.demo">
     <title lang="en">Tears of Steel</title>
     <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018133000 +0000" stop="20261018140000 +0000" channel="Fable.demo">
+  <programme start="20261026153000 +0000" stop="20261026160000 +0000" channel="StudioOne.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="Fable.demo">
+  <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="StudioOne.demo">
     <title lang="en">Sintel</title>
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018150000 +0000" stop="20261018153000 +0000" channel="Fable.demo">
+  <programme start="20261026163000 +0000" stop="20261026173000 +0000" channel="StudioOne.demo">
     <title lang="en">Elephants Dream</title>
     <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018153000 +0000" stop="20261018160000 +0000" channel="Fable.demo">
+  <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="StudioOne.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026180000 +0000" stop="20261026183000 +0000" channel="StudioOne.demo">
     <title lang="en">Tears of Steel</title>
     <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="Fable.demo">
+  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="StudioOne.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018170000 +0000" stop="20261018173000 +0000" channel="Fable.demo">
+  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="StudioOne.demo">
     <title lang="en">Sintel</title>
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018173000 +0000" stop="20261018180000 +0000" channel="Fable.demo">
+  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="StudioOne.demo">
     <title lang="en">Elephants Dream</title>
     <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018180000 +0000" stop="20261018190000 +0000" channel="Fable.demo">
+  <programme start="20261026203000 +0000" stop="20261026213000 +0000" channel="StudioOne.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="StudioOne.demo">
     <title lang="en">Tears of Steel</title>
     <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018190000 +0000" stop="20261018193000 +0000" channel="Fable.demo">
+  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="StudioOne.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018193000 +0000" stop="20261018200000 +0000" channel="Fable.demo">
+  <programme start="20261026223000 +0000" stop="20261026233000 +0000" channel="StudioOne.demo">
     <title lang="en">Sintel</title>
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018200000 +0000" stop="20261018210000 +0000" channel="Fable.demo">
+  <programme start="20261026233000 +0000" stop="20261027000000 +0000" channel="StudioOne.demo">
     <title lang="en">Elephants Dream</title>
     <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018210000 +0000" stop="20261018213000 +0000" channel="Fable.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018213000 +0000" stop="20261018220000 +0000" channel="Fable.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018220000 +0000" stop="20261018230000 +0000" channel="Fable.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018230000 +0000" stop="20261018233000 +0000" channel="Fable.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018233000 +0000" stop="20261019000000 +0000" channel="Fable.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
   <programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="Fable.demo">
@@ -2901,185 +2721,185 @@
     <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018000000 +0000" stop="20261018003000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
-  </programme>
-  <programme start="20261018003000 +0000" stop="20261018010000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llamigos</title>
-    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
-  </programme>
-  <programme start="20261018010000 +0000" stop="20261018020000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+  <programme start="20261026000000 +0000" stop="20261026010000 +0000" channel="Fable.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018020000 +0000" stop="20261018023000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llama Drama</title>
-    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="Fable.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018023000 +0000" stop="20261018030000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="Fable.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018030000 +0000" stop="20261018040000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llamigos</title>
-    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026020000 +0000" stop="20261026030000 +0000" channel="Fable.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018040000 +0000" stop="20261018043000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+  <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="Fable.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018043000 +0000" stop="20261018050000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llama Drama</title>
-    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="Fable.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018050000 +0000" stop="20261018060000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026040000 +0000" stop="20261026050000 +0000" channel="Fable.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018060000 +0000" stop="20261018063000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llamigos</title>
-    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026050000 +0000" stop="20261026053000 +0000" channel="Fable.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018063000 +0000" stop="20261018070000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+  <programme start="20261026053000 +0000" stop="20261026060000 +0000" channel="Fable.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018070000 +0000" stop="20261018080000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llama Drama</title>
-    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026060000 +0000" stop="20261026070000 +0000" channel="Fable.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018080000 +0000" stop="20261018083000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026070000 +0000" stop="20261026073000 +0000" channel="Fable.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018083000 +0000" stop="20261018090000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llamigos</title>
-    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="Fable.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+  <programme start="20261026080000 +0000" stop="20261026090000 +0000" channel="Fable.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018100000 +0000" stop="20261018103000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llama Drama</title>
-    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="Fable.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018103000 +0000" stop="20261018110000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="Fable.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llamigos</title>
-    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026100000 +0000" stop="20261026110000 +0000" channel="Fable.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+  <programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="Fable.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018123000 +0000" stop="20261018130000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llama Drama</title>
-    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="Fable.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018130000 +0000" stop="20261018140000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026120000 +0000" stop="20261026130000 +0000" channel="Fable.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018140000 +0000" stop="20261018143000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llamigos</title>
-    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="Fable.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018143000 +0000" stop="20261018150000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+  <programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="Fable.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018150000 +0000" stop="20261018160000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llama Drama</title>
-    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026140000 +0000" stop="20261026150000 +0000" channel="Fable.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018160000 +0000" stop="20261018163000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026150000 +0000" stop="20261026153000 +0000" channel="Fable.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018163000 +0000" stop="20261018170000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llamigos</title>
-    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026153000 +0000" stop="20261026160000 +0000" channel="Fable.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018170000 +0000" stop="20261018180000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+  <programme start="20261026160000 +0000" stop="20261026170000 +0000" channel="Fable.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018180000 +0000" stop="20261018183000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llama Drama</title>
-    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026170000 +0000" stop="20261026173000 +0000" channel="Fable.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018183000 +0000" stop="20261018190000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="Fable.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018190000 +0000" stop="20261018200000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llamigos</title>
-    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="Fable.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018200000 +0000" stop="20261018203000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+  <programme start="20261026190000 +0000" stop="20261026193000 +0000" channel="Fable.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018203000 +0000" stop="20261018210000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llama Drama</title>
-    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="Fable.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018210000 +0000" stop="20261018220000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="Fable.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018220000 +0000" stop="20261018223000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llamigos</title>
-    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026210000 +0000" stop="20261026213000 +0000" channel="Fable.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018223000 +0000" stop="20261018230000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+  <programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="Fable.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018230000 +0000" stop="20261019000000 +0000" channel="BunnyKids.demo">
-    <title lang="en">Caminandes: Llama Drama</title>
-    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="Fable.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026230000 +0000" stop="20261026233000 +0000" channel="Fable.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026233000 +0000" stop="20261027000000 +0000" channel="Fable.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
   <programme start="20261019000000 +0000" stop="20261019003000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
@@ -4341,182 +4161,182 @@
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018000000 +0000" stop="20261018003000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
     <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018003000 +0000" stop="20261018013000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026003000 +0000" stop="20261026010000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llamigos</title>
     <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018013000 +0000" stop="20261018020000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026010000 +0000" stop="20261026020000 +0000" channel="BunnyKids.demo">
     <title lang="en">Big Buck Bunny</title>
     <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018020000 +0000" stop="20261018023000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llama Drama</title>
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018023000 +0000" stop="20261018033000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026023000 +0000" stop="20261026030000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
     <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018033000 +0000" stop="20261018040000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026030000 +0000" stop="20261026040000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llamigos</title>
     <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018040000 +0000" stop="20261018043000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="BunnyKids.demo">
     <title lang="en">Big Buck Bunny</title>
     <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018043000 +0000" stop="20261018053000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026043000 +0000" stop="20261026050000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llama Drama</title>
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018053000 +0000" stop="20261018060000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026050000 +0000" stop="20261026060000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
     <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018060000 +0000" stop="20261018063000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llamigos</title>
     <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018063000 +0000" stop="20261018073000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="BunnyKids.demo">
     <title lang="en">Big Buck Bunny</title>
     <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018073000 +0000" stop="20261018080000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026070000 +0000" stop="20261026080000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llama Drama</title>
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018080000 +0000" stop="20261018083000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
     <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018083000 +0000" stop="20261018093000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026083000 +0000" stop="20261026090000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llamigos</title>
     <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018093000 +0000" stop="20261018100000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="BunnyKids.demo">
     <title lang="en">Big Buck Bunny</title>
     <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018100000 +0000" stop="20261018103000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llama Drama</title>
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018103000 +0000" stop="20261018113000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
     <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018113000 +0000" stop="20261018120000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llamigos</title>
     <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="BunnyKids.demo">
     <title lang="en">Big Buck Bunny</title>
     <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018123000 +0000" stop="20261018133000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llama Drama</title>
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018133000 +0000" stop="20261018140000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
     <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018140000 +0000" stop="20261018143000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llamigos</title>
     <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018143000 +0000" stop="20261018153000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="BunnyKids.demo">
     <title lang="en">Big Buck Bunny</title>
     <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018153000 +0000" stop="20261018160000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026150000 +0000" stop="20261026160000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llama Drama</title>
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018160000 +0000" stop="20261018163000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
     <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018163000 +0000" stop="20261018173000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026163000 +0000" stop="20261026170000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llamigos</title>
     <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018173000 +0000" stop="20261018180000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026170000 +0000" stop="20261026180000 +0000" channel="BunnyKids.demo">
     <title lang="en">Big Buck Bunny</title>
     <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018180000 +0000" stop="20261018183000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026180000 +0000" stop="20261026183000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llama Drama</title>
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018183000 +0000" stop="20261018193000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
     <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018193000 +0000" stop="20261018200000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llamigos</title>
     <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018200000 +0000" stop="20261018203000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="BunnyKids.demo">
     <title lang="en">Big Buck Bunny</title>
     <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018203000 +0000" stop="20261018213000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llama Drama</title>
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018213000 +0000" stop="20261018220000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026210000 +0000" stop="20261026220000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
     <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018220000 +0000" stop="20261018223000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llamigos</title>
     <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018223000 +0000" stop="20261018233000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026223000 +0000" stop="20261026230000 +0000" channel="BunnyKids.demo">
     <title lang="en">Big Buck Bunny</title>
     <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018233000 +0000" stop="20261019000000 +0000" channel="LlamaTV.demo">
+  <programme start="20261026230000 +0000" stop="20261027000000 +0000" channel="BunnyKids.demo">
     <title lang="en">Caminandes: Llama Drama</title>
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
@@ -5781,185 +5601,185 @@
     <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018000000 +0000" stop="20261018010000 +0000" channel="Nova.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+  <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026003000 +0000" stop="20261026013000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llamigos</title>
+    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018010000 +0000" stop="20261018013000 +0000" channel="Nova.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llama Drama</title>
+    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018013000 +0000" stop="20261018020000 +0000" channel="Nova.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+  <programme start="20261026023000 +0000" stop="20261026033000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llamigos</title>
+    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018020000 +0000" stop="20261018030000 +0000" channel="Nova.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026043000 +0000" stop="20261026053000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llama Drama</title>
+    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018030000 +0000" stop="20261018033000 +0000" channel="Nova.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+  <programme start="20261026053000 +0000" stop="20261026060000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llamigos</title>
+    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026063000 +0000" stop="20261026073000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018033000 +0000" stop="20261018040000 +0000" channel="Nova.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llama Drama</title>
+    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018040000 +0000" stop="20261018050000 +0000" channel="Nova.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+  <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026083000 +0000" stop="20261026093000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llamigos</title>
+    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018050000 +0000" stop="20261018053000 +0000" channel="Nova.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llama Drama</title>
+    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018053000 +0000" stop="20261018060000 +0000" channel="Nova.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+  <programme start="20261026103000 +0000" stop="20261026113000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llamigos</title>
+    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018060000 +0000" stop="20261018070000 +0000" channel="Nova.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026123000 +0000" stop="20261026133000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llama Drama</title>
+    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018070000 +0000" stop="20261018073000 +0000" channel="Nova.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+  <programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llamigos</title>
+    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026143000 +0000" stop="20261026153000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018073000 +0000" stop="20261018080000 +0000" channel="Nova.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026153000 +0000" stop="20261026160000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llama Drama</title>
+    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018080000 +0000" stop="20261018090000 +0000" channel="Nova.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+  <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026163000 +0000" stop="20261026173000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llamigos</title>
+    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018090000 +0000" stop="20261018093000 +0000" channel="Nova.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026180000 +0000" stop="20261026183000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llama Drama</title>
+    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018093000 +0000" stop="20261018100000 +0000" channel="Nova.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llamigos</title>
+    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="Nova.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026203000 +0000" stop="20261026213000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llama Drama</title>
+    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018110000 +0000" stop="20261018113000 +0000" channel="Nova.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+  <programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llamigos</title>
+    <desc lang="en">In the depths of winter, Koro meets Oti the penguin and they compete for the last berries. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026223000 +0000" stop="20261026233000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018113000 +0000" stop="20261018120000 +0000" channel="Nova.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018120000 +0000" stop="20261018130000 +0000" channel="Nova.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018130000 +0000" stop="20261018133000 +0000" channel="Nova.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018133000 +0000" stop="20261018140000 +0000" channel="Nova.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="Nova.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018150000 +0000" stop="20261018153000 +0000" channel="Nova.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018153000 +0000" stop="20261018160000 +0000" channel="Nova.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="Nova.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018170000 +0000" stop="20261018173000 +0000" channel="Nova.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018173000 +0000" stop="20261018180000 +0000" channel="Nova.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018180000 +0000" stop="20261018190000 +0000" channel="Nova.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018190000 +0000" stop="20261018193000 +0000" channel="Nova.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018193000 +0000" stop="20261018200000 +0000" channel="Nova.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018200000 +0000" stop="20261018210000 +0000" channel="Nova.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018210000 +0000" stop="20261018213000 +0000" channel="Nova.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261018213000 +0000" stop="20261018220000 +0000" channel="Nova.demo">
-    <title lang="en">Cosmos Laundromat</title>
-    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018220000 +0000" stop="20261018230000 +0000" channel="Nova.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018230000 +0000" stop="20261018233000 +0000" channel="Nova.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018233000 +0000" stop="20261019000000 +0000" channel="Nova.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026233000 +0000" stop="20261027000000 +0000" channel="LlamaTV.demo">
+    <title lang="en">Caminandes: Llama Drama</title>
+    <desc lang="en">Koro the llama tries to cross a road to reach the grass on the other side. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
   <programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
@@ -7221,185 +7041,185 @@
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018000000 +0000" stop="20261018003000 +0000" channel="Agent247.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
-  </programme>
-  <programme start="20261018003000 +0000" stop="20261018010000 +0000" channel="Agent247.demo">
-    <title lang="en">Agent 327: Operation Barbershop</title>
-    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018010000 +0000" stop="20261018020000 +0000" channel="Agent247.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018020000 +0000" stop="20261018023000 +0000" channel="Agent247.demo">
+  <programme start="20261026000000 +0000" stop="20261026010000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018023000 +0000" stop="20261018030000 +0000" channel="Agent247.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="Nova.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018030000 +0000" stop="20261018040000 +0000" channel="Agent247.demo">
+  <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="Nova.demo">
     <title lang="en">Agent 327: Operation Barbershop</title>
     <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018040000 +0000" stop="20261018043000 +0000" channel="Agent247.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261026020000 +0000" stop="20261026030000 +0000" channel="Nova.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018043000 +0000" stop="20261018050000 +0000" channel="Agent247.demo">
+  <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018050000 +0000" stop="20261018060000 +0000" channel="Agent247.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="Nova.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018060000 +0000" stop="20261018063000 +0000" channel="Agent247.demo">
+  <programme start="20261026040000 +0000" stop="20261026050000 +0000" channel="Nova.demo">
     <title lang="en">Agent 327: Operation Barbershop</title>
     <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018063000 +0000" stop="20261018070000 +0000" channel="Agent247.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261026050000 +0000" stop="20261026053000 +0000" channel="Nova.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018070000 +0000" stop="20261018080000 +0000" channel="Agent247.demo">
+  <programme start="20261026053000 +0000" stop="20261026060000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018080000 +0000" stop="20261018083000 +0000" channel="Agent247.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026060000 +0000" stop="20261026070000 +0000" channel="Nova.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018083000 +0000" stop="20261018090000 +0000" channel="Agent247.demo">
+  <programme start="20261026070000 +0000" stop="20261026073000 +0000" channel="Nova.demo">
     <title lang="en">Agent 327: Operation Barbershop</title>
     <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="Agent247.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="Nova.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018100000 +0000" stop="20261018103000 +0000" channel="Agent247.demo">
+  <programme start="20261026080000 +0000" stop="20261026090000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018103000 +0000" stop="20261018110000 +0000" channel="Agent247.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="Nova.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="Agent247.demo">
+  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="Nova.demo">
     <title lang="en">Agent 327: Operation Barbershop</title>
     <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="Agent247.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261026100000 +0000" stop="20261026110000 +0000" channel="Nova.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018123000 +0000" stop="20261018130000 +0000" channel="Agent247.demo">
+  <programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018130000 +0000" stop="20261018140000 +0000" channel="Agent247.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="Nova.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018140000 +0000" stop="20261018143000 +0000" channel="Agent247.demo">
+  <programme start="20261026120000 +0000" stop="20261026130000 +0000" channel="Nova.demo">
     <title lang="en">Agent 327: Operation Barbershop</title>
     <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018143000 +0000" stop="20261018150000 +0000" channel="Agent247.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261026130000 +0000" stop="20261026133000 +0000" channel="Nova.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018150000 +0000" stop="20261018160000 +0000" channel="Agent247.demo">
+  <programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018160000 +0000" stop="20261018163000 +0000" channel="Agent247.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026140000 +0000" stop="20261026150000 +0000" channel="Nova.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018163000 +0000" stop="20261018170000 +0000" channel="Agent247.demo">
+  <programme start="20261026150000 +0000" stop="20261026153000 +0000" channel="Nova.demo">
     <title lang="en">Agent 327: Operation Barbershop</title>
     <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018170000 +0000" stop="20261018180000 +0000" channel="Agent247.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261026153000 +0000" stop="20261026160000 +0000" channel="Nova.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018180000 +0000" stop="20261018183000 +0000" channel="Agent247.demo">
+  <programme start="20261026160000 +0000" stop="20261026170000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018183000 +0000" stop="20261018190000 +0000" channel="Agent247.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026170000 +0000" stop="20261026173000 +0000" channel="Nova.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018190000 +0000" stop="20261018200000 +0000" channel="Agent247.demo">
+  <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="Nova.demo">
     <title lang="en">Agent 327: Operation Barbershop</title>
     <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018200000 +0000" stop="20261018203000 +0000" channel="Agent247.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="Nova.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018203000 +0000" stop="20261018210000 +0000" channel="Agent247.demo">
+  <programme start="20261026190000 +0000" stop="20261026193000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018210000 +0000" stop="20261018220000 +0000" channel="Agent247.demo">
-    <title lang="en">Caminandes: Gran Dillama</title>
-    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Kids</category>
+  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="Nova.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
   </programme>
-  <programme start="20261018220000 +0000" stop="20261018223000 +0000" channel="Agent247.demo">
+  <programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="Nova.demo">
     <title lang="en">Agent 327: Operation Barbershop</title>
     <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018223000 +0000" stop="20261018230000 +0000" channel="Agent247.demo">
-    <title lang="en">Big Buck Bunny</title>
-    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261026210000 +0000" stop="20261026213000 +0000" channel="Nova.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
-  <programme start="20261018230000 +0000" stop="20261019000000 +0000" channel="Agent247.demo">
+  <programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="Nova.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="Nova.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026230000 +0000" stop="20261026233000 +0000" channel="Nova.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026233000 +0000" stop="20261027000000 +0000" channel="Nova.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
   </programme>
   <programme start="20261019000000 +0000" stop="20261019003000 +0000" channel="Agent247.demo">
     <title lang="en">Caminandes: Gran Dillama</title>
@@ -8661,185 +8481,185 @@
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018000000 +0000" stop="20261018003000 +0000" channel="Reverie.demo">
+  <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="Agent247.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
+  </programme>
+  <programme start="20261026003000 +0000" stop="20261026010000 +0000" channel="Agent247.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026010000 +0000" stop="20261026020000 +0000" channel="Agent247.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="Agent247.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018003000 +0000" stop="20261018013000 +0000" channel="Reverie.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026023000 +0000" stop="20261026030000 +0000" channel="Agent247.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018013000 +0000" stop="20261018020000 +0000" channel="Reverie.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026030000 +0000" stop="20261026040000 +0000" channel="Agent247.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018020000 +0000" stop="20261018023000 +0000" channel="Reverie.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="Agent247.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018023000 +0000" stop="20261018033000 +0000" channel="Reverie.demo">
+  <programme start="20261026043000 +0000" stop="20261026050000 +0000" channel="Agent247.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018033000 +0000" stop="20261018040000 +0000" channel="Reverie.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026050000 +0000" stop="20261026060000 +0000" channel="Agent247.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018040000 +0000" stop="20261018043000 +0000" channel="Reverie.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="Agent247.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018043000 +0000" stop="20261018053000 +0000" channel="Reverie.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="Agent247.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018053000 +0000" stop="20261018060000 +0000" channel="Reverie.demo">
+  <programme start="20261026070000 +0000" stop="20261026080000 +0000" channel="Agent247.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018060000 +0000" stop="20261018063000 +0000" channel="Reverie.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="Agent247.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018063000 +0000" stop="20261018073000 +0000" channel="Reverie.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026083000 +0000" stop="20261026090000 +0000" channel="Agent247.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018073000 +0000" stop="20261018080000 +0000" channel="Reverie.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="Agent247.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018080000 +0000" stop="20261018083000 +0000" channel="Reverie.demo">
+  <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="Agent247.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018083000 +0000" stop="20261018093000 +0000" channel="Reverie.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="Agent247.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018093000 +0000" stop="20261018100000 +0000" channel="Reverie.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="Agent247.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018100000 +0000" stop="20261018103000 +0000" channel="Reverie.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="Agent247.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018103000 +0000" stop="20261018113000 +0000" channel="Reverie.demo">
+  <programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="Agent247.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018113000 +0000" stop="20261018120000 +0000" channel="Reverie.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="Agent247.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="Reverie.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="Agent247.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018123000 +0000" stop="20261018133000 +0000" channel="Reverie.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="Agent247.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018133000 +0000" stop="20261018140000 +0000" channel="Reverie.demo">
+  <programme start="20261026150000 +0000" stop="20261026160000 +0000" channel="Agent247.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018140000 +0000" stop="20261018143000 +0000" channel="Reverie.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="Agent247.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018143000 +0000" stop="20261018153000 +0000" channel="Reverie.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026163000 +0000" stop="20261026170000 +0000" channel="Agent247.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018153000 +0000" stop="20261018160000 +0000" channel="Reverie.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026170000 +0000" stop="20261026180000 +0000" channel="Agent247.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018160000 +0000" stop="20261018163000 +0000" channel="Reverie.demo">
+  <programme start="20261026180000 +0000" stop="20261026183000 +0000" channel="Agent247.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018163000 +0000" stop="20261018173000 +0000" channel="Reverie.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="Agent247.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018173000 +0000" stop="20261018180000 +0000" channel="Reverie.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="Agent247.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018180000 +0000" stop="20261018183000 +0000" channel="Reverie.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="Agent247.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018183000 +0000" stop="20261018193000 +0000" channel="Reverie.demo">
+  <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="Agent247.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018193000 +0000" stop="20261018200000 +0000" channel="Reverie.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026210000 +0000" stop="20261026220000 +0000" channel="Agent247.demo">
+    <title lang="en">Caminandes: Gran Dillama</title>
+    <desc lang="en">Koro wants the juicy leaves on the far side of an electric fence. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Kids</category>
   </programme>
-  <programme start="20261018200000 +0000" stop="20261018203000 +0000" channel="Reverie.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
+  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="Agent247.demo">
+    <title lang="en">Agent 327: Operation Barbershop</title>
+    <desc lang="en">Agent 327 goes undercover in a barbershop to find a missing colleague. Blender Foundation open movie, CC BY-ND 4.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018203000 +0000" stop="20261018213000 +0000" channel="Reverie.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
+  <programme start="20261026223000 +0000" stop="20261026230000 +0000" channel="Agent247.demo">
+    <title lang="en">Big Buck Bunny</title>
+    <desc lang="en">A gentle giant of a rabbit gets even with three rodents who bully the forest's smaller animals. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20261018213000 +0000" stop="20261018220000 +0000" channel="Reverie.demo">
+  <programme start="20261026230000 +0000" stop="20261027000000 +0000" channel="Agent247.demo">
     <title lang="en">Cosmos Laundromat</title>
     <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
     <category lang="en">Animation</category>
-  </programme>
-  <programme start="20261018220000 +0000" stop="20261018223000 +0000" channel="Reverie.demo">
-    <title lang="en">Tears of Steel</title>
-    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018223000 +0000" stop="20261018233000 +0000" channel="Reverie.demo">
-    <title lang="en">Elephants Dream</title>
-    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20261018233000 +0000" stop="20261019000000 +0000" channel="Reverie.demo">
-    <title lang="en">Sintel</title>
-    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
-    <category lang="en">Fantasy</category>
   </programme>
   <programme start="20261019000000 +0000" stop="20261019003000 +0000" channel="Reverie.demo">
     <title lang="en">Cosmos Laundromat</title>
@@ -10097,6 +9917,186 @@
     <category lang="en">Sci-Fi</category>
   </programme>
   <programme start="20261025233000 +0000" stop="20261026000000 +0000" channel="Reverie.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="Reverie.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026003000 +0000" stop="20261026013000 +0000" channel="Reverie.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="Reverie.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="Reverie.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026023000 +0000" stop="20261026033000 +0000" channel="Reverie.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="Reverie.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="Reverie.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026043000 +0000" stop="20261026053000 +0000" channel="Reverie.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026053000 +0000" stop="20261026060000 +0000" channel="Reverie.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="Reverie.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026063000 +0000" stop="20261026073000 +0000" channel="Reverie.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="Reverie.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="Reverie.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026083000 +0000" stop="20261026093000 +0000" channel="Reverie.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="Reverie.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="Reverie.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026103000 +0000" stop="20261026113000 +0000" channel="Reverie.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="Reverie.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="Reverie.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026123000 +0000" stop="20261026133000 +0000" channel="Reverie.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026133000 +0000" stop="20261026140000 +0000" channel="Reverie.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="Reverie.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026143000 +0000" stop="20261026153000 +0000" channel="Reverie.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026153000 +0000" stop="20261026160000 +0000" channel="Reverie.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="Reverie.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026163000 +0000" stop="20261026173000 +0000" channel="Reverie.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="Reverie.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026180000 +0000" stop="20261026183000 +0000" channel="Reverie.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="Reverie.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="Reverie.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="Reverie.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026203000 +0000" stop="20261026213000 +0000" channel="Reverie.demo">
+    <title lang="en">Sintel</title>
+    <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="Reverie.demo">
+    <title lang="en">Cosmos Laundromat</title>
+    <desc lang="en">On a lonely island, Franck the sheep meets a salesman who offers him any life he wants. Blender Foundation open movie, CC BY 4.0.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="Reverie.demo">
+    <title lang="en">Tears of Steel</title>
+    <desc lang="en">In a future Amsterdam, scientists try to save the world from robots by restaging a painful break-up. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026223000 +0000" stop="20261026233000 +0000" channel="Reverie.demo">
+    <title lang="en">Elephants Dream</title>
+    <desc lang="en">Two men explore a vast, strange machine that may exist only in one of their minds. Blender Foundation open movie, CC BY 3.0.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20261026233000 +0000" stop="20261027000000 +0000" channel="Reverie.demo">
     <title lang="en">Sintel</title>
     <desc lang="en">A young woman crosses a harsh land to find the baby dragon she once rescued. Blender Foundation open movie, CC BY 3.0.</desc>
     <category lang="en">Fantasy</category>
