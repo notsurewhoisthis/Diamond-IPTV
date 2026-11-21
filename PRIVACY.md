@@ -25,7 +25,7 @@ The application functions as a generic media player that allows users to play th
 
 ## Privacy Policy
 
-**Last updated: October 27, 2025**
+**Last updated: November 20, 2026**
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -69,6 +69,7 @@ For the purposes of this Privacy Policy:
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 - Usage Data
+- Email address, only if You sign up for update emails (see "Update emails" below)
 
 ##### Usage Data
 Usage Data is collected automatically when using the Service.
@@ -78,6 +79,14 @@ Usage Data may include information such as Your Device's Internet Protocol addre
 When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device's unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
 
 We may also collect information that Your browser sends whenever You visit Our Service or when You access the Service by or through a mobile device.
+
+#### Update emails
+Signing up is optional and never pre-ticked. You can sign up in the app (during setup, once after an update, or in Settings) or at https://jamrun-iptv.netlify.app/updates.
+
+- **What we keep.** Your email address, the time You signed up (as Your consent), the app version and device type You signed up from (iPhone, iPad, Mac, Apple TV or the website), where in the app You signed up, and the app's language, so emails can be in Your language.
+- **Why.** To email You when there's a new version of JamRun, and now and then about a freebie. Nothing else: we don't sell or share the list, and we don't use it for ads.
+- **Where it's kept.** In Google Cloud Firestore, stored in London (europe-west2), readable only by us. The app keeps only a note that this device signed up, never the address itself.
+- **How to remove it.** Every email has an unsubscribe link. You can also unsubscribe at any time at https://jamrun-iptv.netlify.app/unsubscribe, or email us. Unsubscribing deletes Your address and what was stored with it from the list.
 
 #### Use of Your Personal Data
 The Company may use Personal Data for the following purposes:
