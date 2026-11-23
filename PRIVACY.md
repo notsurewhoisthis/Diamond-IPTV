@@ -25,7 +25,7 @@ The application functions as a generic media player that allows users to play th
 
 ## Privacy Policy
 
-**Last updated: November 20, 2026**
+**Last updated: November 23, 2026**
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -79,6 +79,14 @@ Usage Data may include information such as Your Device's Internet Protocol addre
 When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device's unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
 
 We may also collect information that Your browser sends whenever You visit Our Service or when You access the Service by or through a mobile device.
+
+#### Crash reports and usage
+The app uses Google Firebase Analytics and Crashlytics to count how features are used, to measure how long channels take to start, and to report crashes.
+
+- **What the reports include.** Your device type, system version, app version, a random app identifier and Your country.
+- **Channel-start timings.** They include Your provider's server name and the stream's number, never Your username or password.
+- **What they don't include.** Your playlists, titles You watch, Your watch history, or any Trakt activity.
+- **How they're used.** Only to find crashes and slow channel starts. The reports aren't linked to You, and they aren't used for ads or tracking.
 
 #### Update emails
 Signing up is optional and never pre-ticked. You can sign up in the app (during setup, once after an update, or in Settings) or at https://jamrun-iptv.netlify.app/updates.
