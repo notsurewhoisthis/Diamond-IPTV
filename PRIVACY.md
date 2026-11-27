@@ -25,7 +25,7 @@ The application functions as a generic media player that allows users to play th
 
 ## Privacy Policy
 
-**Last updated: November 23, 2026**
+**Last updated: November 27, 2026**
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -81,12 +81,28 @@ When You access the Service by or through a mobile device, We may collect certai
 We may also collect information that Your browser sends whenever You visit Our Service or when You access the Service by or through a mobile device.
 
 #### Crash reports and usage
-The app uses Google Firebase Analytics and Crashlytics to count how features are used, to measure how long channels take to start, and to report crashes.
+The app uses Google Firebase Analytics and Crashlytics to count how features are used (for example, a playlist added or a stream that failed to play, with the player used, never the title or address), to measure how long channels take to start, and to report crashes.
 
 - **What the reports include.** Your device type, system version, app version, a random app identifier and Your country.
 - **Channel-start timings.** They include Your provider's server name and the stream's number, never Your username or password.
 - **What they don't include.** Your playlists, titles You watch, Your watch history, or any Trakt activity.
 - **How they're used.** Only to find crashes and slow channel starts. The reports aren't linked to You, and they aren't used for ads or tracking.
+
+#### Remote Config
+The app uses Google Firebase Remote Config to switch features on or off without an app update.
+
+#### AI features
+AI features are optional and stay off until You agree. Turn them on or off, together or one by one, in Settings, then AI features. They use Google's Gemini through Google Firebase.
+
+- **What's sent.**
+  - Ask JamRun in search: Your question, the app's language and Your time zone.
+  - Help chat: Your question and JamRun's own help text.
+  - Playlist help: the kind of error, the step that failed, the server's status code, the playlist type, Your device type and the app version, plus simple yes-or-no checks on how the address and login are written (for example, whether the address has a port or the login has a space). Never the address or the login itself.
+  - Programme summaries ("What's this?"): the programme's title and description. On Apple TV, translations send the same.
+- **What's never sent.** Your playlists, their addresses, usernames or passwords, Your channel list or Your watch history. If You paste a link or a login into the help chat, the app doesn't send it.
+- **Where results come from.** Ask JamRun's results come from Your own playlists and guide, matched on Your device, not from the AI.
+- **Translation.** On iPhone, iPad and Mac, translation is done on Your device by Apple and sends nothing.
+- **Google's handling.** JamRun uses Google's free Gemini service. Google may keep what's sent, may use it to improve its products, and people at Google may review it, so don't put personal details in questions.
 
 #### Update emails
 Signing up is optional and never pre-ticked. You can sign up in the app (during setup, once after an update, or in Settings) or at https://jamrun-iptv.netlify.app/updates.
