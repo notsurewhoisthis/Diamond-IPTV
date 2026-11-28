@@ -25,7 +25,7 @@ The application functions as a generic media player that allows users to play th
 
 ## Privacy Policy
 
-**Last updated: November 27, 2026**
+**Last updated: November 28, 2026**
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -96,11 +96,12 @@ AI features are optional and stay off until You agree. Turn them on or off, toge
 
 - **What's sent.**
   - Ask JamRun in search: Your question, the app's language and Your time zone.
+  - Ask JamRun lookups on The Movie Database (TMDB): when Gemini's reading of Your question names a person or titles, or asks for a genre, year, country, language or streaming service, the app looks those up on TMDB in the app's language, with Your region for streaming-service questions. Your question itself isn't sent to TMDB.
   - Help chat: Your question and JamRun's own help text.
   - Playlist help: the kind of error, the step that failed, the server's status code, the playlist type, Your device type and the app version, plus simple yes-or-no checks on how the address and login are written (for example, whether the address has a port or the login has a space). Never the address or the login itself.
   - Programme summaries ("What's this?"): the programme's title and description. On Apple TV, translations send the same.
 - **What's never sent.** Your playlists, their addresses, usernames or passwords, Your channel list or Your watch history. If You paste a link or a login into the help chat, the app doesn't send it.
-- **Where results come from.** Ask JamRun's results come from Your own playlists and guide, matched on Your device, not from the AI.
+- **Where results come from.** Ask JamRun's results come from Your own playlists and guide, matched on Your device, not from the AI. Sports answers (kick-off times, teams and channels) come only from Your guide. Guessed titles that aren't in Your playlists are marked "Not in your playlists".
 - **Translation.** On iPhone, iPad and Mac, translation is done on Your device by Apple and sends nothing.
 - **Google's handling.** JamRun uses Google's free Gemini service. Google may keep what's sent, may use it to improve its products, and people at Google may review it, so don't put personal details in questions.
 
